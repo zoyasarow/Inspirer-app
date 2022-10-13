@@ -73,10 +73,6 @@ Install dependencies with npm i in various folders after git clone
 - [@Dosiano Torrez](https://github.com/DosTorrez)![](https://img.shields.io/github/followers/DosTorrez?style=social)
 - [@Can Sardaslar](https://github.com/sardaslar) ![](https://img.shields.io/github/followers/sardaslar?style=social)
 
-## Deployed Application
-
-https://inspirer-app.herokuapp.com/
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
