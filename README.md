@@ -75,7 +75,7 @@ Install dependencies with npm i in various folders after git clone
 
 ## Deployed Application
 
----https
+https://inspirer-app.herokuapp.com/
 
 ## License
 
